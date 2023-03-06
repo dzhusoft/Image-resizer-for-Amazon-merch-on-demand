@@ -30,9 +30,17 @@ You have to provide a valid picture at the main size (4500px*5400px), wait some 
 
 *The main content is every pixel which does not have a full transparency value (Alpha value of 255 from the RGBA image).
 
+Press "Select the 4500*5400 image" and select the correct image. This accepts only the original images in 4500px by 5400px.
+
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223126580-335b2b29-7fdb-42db-b5af-fbebe70f81ef.png">
 
+Press "Add size" to add a size if it is not available in the list to the right.
+
+Then, press "Resize" to resize to the listed sizes. This will save the resized images to the same folder as the original.
+
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223127617-8e9f41f1-f166-415b-b890-4530c5e144c2.png">
+
+The list of resized images are printed with their names.
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223127123-4ac352c1-1f0a-4c93-9284-86eab8b9cf8f.png">
 
