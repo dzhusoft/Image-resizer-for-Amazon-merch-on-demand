@@ -12,6 +12,7 @@ Those who are working in such a job are making good money, so, 100 Euros is not 
 ## First use
 You need to download the application, run it, it will show a generated code (see the following picture), send it together with the declaration to [dzhusoft@gmail.com] and I will send you back the other 3 codes for the authentication, this will register your copy and you don't have to do this process again only if you change your computer.
 Changing the computer or the user means that you need to buy it again.
+
 <img width="213" alt="image" src="https://user-images.githubusercontent.com/127102906/223126074-4eb85b52-2e61-491a-8bf6-0abae5ddd9f5.png">
 
 
