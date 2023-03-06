@@ -1,6 +1,8 @@
 # Image-resizer-for-Amazon-merch-on-demand
 This is a tool which enables the users to resize the images that are created for the Amazon merch on demand to different sizes, this will look for the main content of the picture and fit it inside other sizes without changing the ratio.
 
+In order to use this tool, you need to buy it from the developer for 100Euros or equivalent through PayPal at the link: paypal.me/abdoudzhu
+
 This tool enables you to safely convert your images to different sizes that are used in the Amazon Merch On Demand.
 
 It will automatically look for the main content of the picture inside the main image (4500px*5400px) then it will fit it inside all the other available size at the Amazon Merch on Demand which are:
