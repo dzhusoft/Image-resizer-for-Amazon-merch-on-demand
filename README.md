@@ -31,6 +31,7 @@ You have to provide a valid picture at the main size (4500px*5400px), wait some 
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223126580-335b2b29-7fdb-42db-b5af-fbebe70f81ef.png">
 
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223127617-8e9f41f1-f166-415b-b890-4530c5e144c2.png">
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/127102906/223127123-4ac352c1-1f0a-4c93-9284-86eab8b9cf8f.png">
 
