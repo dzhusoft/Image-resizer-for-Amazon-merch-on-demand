@@ -4,7 +4,8 @@ This is a tool which enables the users to resize the images that are created for
 
 ## How to get this tool
 In order to use this tool, you need to buy it from the developer for "100 Euros" or equivalent through PayPal at the link: https://paypal.me/abdoudzhu
-Also you need to send a signed declaration as PNG or PDF that you paid the amount to use the software to dzhusoft@gmail.com (the declaration is attached with the repository).
+Also you need to send a signed declaration as PNG or PDF that you paid the amount to use the software to dzhusoft@gmail.com.
+The declaration is attached with the repository and you should include your full name and the transaction ID.
 
 ## How to use
 This tool enables you to safely convert your images to different sizes that are used in the Amazon Merch On Demand.
