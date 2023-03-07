@@ -13,6 +13,10 @@ Those who are working in such a job are making good money, so, 100 Euros is not 
 You need to download the application, run it, it will show a generated code (see the following picture), send it together with the declaration to [dzhusoft@gmail.com] and I will send you back the other 3 codes for the authentication, this will register your copy and you don't have to do this process again only if you change your computer.
 Changing the computer or the user means that you need to buy it again.
 
+if you get the SmartScreen alert of security, this is just that program needs to have lots of people who are using it to gain trust from the SmartScreen app.
+
+Just press "More info" and then press "Run Anyway".
+
 <img width="213" alt="image" src="https://user-images.githubusercontent.com/127102906/223126074-4eb85b52-2e61-491a-8bf6-0abae5ddd9f5.png">
 
 
@@ -25,6 +29,8 @@ It will automatically look for the "main content*" of the picture inside the mai
 1800px * 3200px,
 2925px * 2925px.
 However, You can Add a new size at any time you want. The values of the new Width and Height needs to be between 100px and 12000px.
+
+I recommend you to use the "Fit inside" option, but you can also choose to scale the image to other sizes.
 
 You have to provide a valid picture at the main size (4500px*5400px), wait some seconds until it check if this is a valid picture, then press the button "Resize" and wait until the end of resizing.
 
