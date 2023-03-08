@@ -3,7 +3,9 @@
 This is a tool which enables the users to resize the images that are created for the Amazon merch on demand to different sizes, this will look for the main content of the picture and fit it inside other sizes without or with changing the ratio.
 
 ### Update
-If you don't want to buy the tool, or you don't trust the executable file, you can send the pictures and I resize it for you. For more information, check [https://github.com/dzhusoft/Resize-images-for-Amazon-Merch-on-demand]
+If you don't want to buy the tool, or you don't trust the executable file, you can send the pictures and I resize it for you. For more information, check [https://github.com/dzhusoft/Resize-images-for-Amazon-Merch-on-demand].
+
+I will resize them and send them back as soon as I can, depending on my availability.
 
 ## How to get this tool
 In order to use this tool, you need to buy it from the developer for "100 Euros" through PayPal at the link: [https://paypal.me/abdoudzhu]
